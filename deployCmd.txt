@@ -1,0 +1,1 @@
+windeployqt --qmldir "C:\Users\PC\Desktop\Build\MornitorWipMain" "C:\Users\PC\Desktop\Build\build-MornitorWipMain-Desktop_Qt_5_12_12_MinGW_64_bit-Debug\debug\MornitorWipMain.exe"

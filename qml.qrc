@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GridCellDelegate.qml</file>
+        <file>CustomBorderRect.qml</file>
+        <file>GridRowHeader.qml</file>
+        <file>Banner.qml</file>
+    </qresource>
+</RCC>
